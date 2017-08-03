@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#99a5ea</color>
+    <color name="colorPrimaryDark">#6f80e9</color>
+    <color name="colorAccent">#633bb9</color>
+    <color name="gray">#4b4a4a</color>
+    <color name="yellow">#f1d820</color>
+    <color name="bar_chart_bg">#506E7A</color>
+    <color name="line_color">#c4c7c9</color>
+</resources>
